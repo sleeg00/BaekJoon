@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b41d49f5-296f-4fe3-8e88-47e2f2fc4037": {
+      "ProjectGuid": "b41d49f5-296f-4fe3-8e88-47e2f2fc4037",
+      "DisplayName": "카잉달력",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

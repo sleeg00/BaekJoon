@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88e6e0a1-80ea-45c1-aac1-bc35c45639a6": {
+      "ProjectGuid": "88e6e0a1-80ea-45c1-aac1-bc35c45639a6",
+      "DisplayName": "잃어버린 괄호",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

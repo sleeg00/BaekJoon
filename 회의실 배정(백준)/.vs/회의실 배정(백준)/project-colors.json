@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd942100-28ad-4e3f-9e0d-56074b416116": {
+      "ProjectGuid": "bd942100-28ad-4e3f-9e0d-56074b416116",
+      "DisplayName": "회의실 배정(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff7edb47-3d25-4b30-bb00-12c0e9a0b0c6": {
+      "ProjectGuid": "ff7edb47-3d25-4b30-bb00-12c0e9a0b0c6",
+      "DisplayName": "스택 수열(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

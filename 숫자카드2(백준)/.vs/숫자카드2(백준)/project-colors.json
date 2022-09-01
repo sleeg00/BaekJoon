@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21b7c25e-f045-4a42-a1cc-8e8ea759d2e4": {
+      "ProjectGuid": "21b7c25e-f045-4a42-a1cc-8e8ea759d2e4",
+      "DisplayName": "숫자카드2(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

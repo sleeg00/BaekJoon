@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f6e46e5-18c9-4c7e-8b86-dd16740aa62d": {
+      "ProjectGuid": "0f6e46e5-18c9-4c7e-8b86-dd16740aa62d",
+      "DisplayName": "리모컨",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

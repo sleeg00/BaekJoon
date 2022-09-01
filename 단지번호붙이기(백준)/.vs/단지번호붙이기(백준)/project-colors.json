@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c73f7158-cc8d-46cb-b36e-1175916cc1f9": {
+      "ProjectGuid": "c73f7158-cc8d-46cb-b36e-1175916cc1f9",
+      "DisplayName": "단지번호붙이기(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

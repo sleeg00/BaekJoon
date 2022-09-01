@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4645275-cf7c-48dd-b01b-e46872b0e9cd": {
+      "ProjectGuid": "f4645275-cf7c-48dd-b01b-e46872b0e9cd",
+      "DisplayName": "약수 구하기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

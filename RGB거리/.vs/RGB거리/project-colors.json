@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec235b15-8a43-4d23-a886-d4423e59c544": {
+      "ProjectGuid": "ec235b15-8a43-4d23-a886-d4423e59c544",
+      "DisplayName": "RGB거리",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

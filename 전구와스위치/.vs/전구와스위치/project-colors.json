@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a48010af-4b27-42d9-9986-e048831ba16d": {
+      "ProjectGuid": "a48010af-4b27-42d9-9986-e048831ba16d",
+      "DisplayName": "전구와스위치",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
